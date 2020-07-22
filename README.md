@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 Olá, meu nome é Vanessa, e eu:
 
--  💜 Adoro aprender coisas novas
+-  💜Sou apaixonada por tecnologia;
 -  ⚡ Estou me aprofundando em React;
 -  🚀 Quero ir muito longe, ir além!
