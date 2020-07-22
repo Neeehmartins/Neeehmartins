@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Vanessa Martins :raising_hand:
-] 
+# Vanessa Martins :four_leaf_clover:
+
 Olá, meu nome é Vanessa, e eu:
 
 -  💜 Adoro aprender coisas novas
