@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Vanessa Martins :girl_technologist:
+
+[![Linkedin Badge] (https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessamartins23/)](https://www.linkedin.com/in/vanessamartins23/)
+
+Olá, meu nome é Vanessa, e eu:
+
+-  📚 Adoro aprender coisas novas
+-  ⚡ Estou me aprofundando em React;
+-  🚀 Quero ir muito longe, ir além!
