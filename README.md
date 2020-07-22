@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Vanessa Martins :raising_hand:
-
-[![Linkedin Badge] (https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessamartins23/)](https://www.linkedin.com/in/vanessamartins23/)
-
+] 
 Olá, meu nome é Vanessa, e eu:
 
 -  💜 Adoro aprender coisas novas
