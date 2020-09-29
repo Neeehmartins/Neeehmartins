@@ -30,7 +30,7 @@ Olá, meu nome é Vanessa, e eu:
 
 <ul>
   <li>Tecnologo em Análise e Desenvolvimento de Sistemas (em andamento) </li>
-  <li> Bacharelado em Marketing (Concluido) </li>
+  <li> Bacharelado em Marketing (Concluído) </li>
 
 </ul>
 
