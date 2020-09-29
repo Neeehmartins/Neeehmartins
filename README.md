@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Vanessa Martins :🚀 
+# Vanessa Martins 🚀 
 
 Olá, meu nome é Vanessa, e eu:
 
