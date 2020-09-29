@@ -17,4 +17,42 @@ Here are some ideas to get you started:
 
 # Vanessa Martins :four_leaf_clover:
 
-#
+Olá, meu nome é Vanessa, e eu:
+
+
+  
+  - 💜Sou apaixonada por tecnologia; 
+  - ⚡ Adoro me desafiar; 
+  - 🚀 Quero ir muito longe, ir além!
+
+
+**Formação acadêmica** 🎓
+
+<ul>
+  <li>Tecnologo em Análise e Desenvolvimento de Sistemas (em andamento) </li>
+  <li> Bacharelado em Marketing (Concluido) </li>
+
+</ul>
+
+
+**Cursos que estou fazendo** 📘
+
+<ul>
+  <li>Trilha de React - Alura ( em andamento) </li>
+  <li> Trilha de Angular 2+ - Alura ( em andamento) </li>
+</ul>
+<p>
+  
+**Atualmente estou aprendendo** 💾
+  </p>
+<ul>
+  <li>JavaScript</li>
+  <li> CSS3 </li>
+  <li> HTML5 </li>   
+  <li>TypeScript</li>
+  <li> NodeJS </li>
+  <li> React  </li>
+  <li> Angular 2+ </li>
+<ul>
+
+
